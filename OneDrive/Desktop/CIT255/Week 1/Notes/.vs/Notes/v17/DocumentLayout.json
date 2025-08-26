@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\week 1\\notes\\notes\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|solutionrelative:notes\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\week 1\\notes\\notes\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|solutionrelative:notes\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\week 1\\notes\\notes\\views\\notepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|solutionrelative:notes\\views\\notepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\week 1\\notes\\notes\\views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|solutionrelative:notes\\views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\week 1\\notes\\notes\\views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|solutionrelative:notes\\views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\week 1\\notes\\notes\\models\\allnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|solutionrelative:notes\\models\\allnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\week 1\\notes\\notes\\views\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|solutionrelative:notes\\views\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\week 1\\notes\\notes\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|solutionrelative:notes\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\week 1\\notes\\notes\\views\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|solutionrelative:notes\\views\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\week 1\\notes\\notes\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|solutionrelative:notes\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\week 1\\notes\\notes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|solutionrelative:notes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\week 1\\notes\\notes\\notes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EA08540-8838-4285-BC73-DCD87D8709C6}|Notes\\Notes.csproj|solutionrelative:notes\\notes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\AppShell.xaml.cs",
+              "RelativeToolTip": "Notes\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:22:40.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllNotesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Views\\AllNotesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\Views\\AllNotesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Views\\AllNotesPage.xaml.cs",
+              "RelativeToolTip": "Notes\\Views\\AllNotesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:19:29.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllNotes.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Models\\AllNotes.cs",
+              "RelativeDocumentMoniker": "Notes\\Models\\AllNotes.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Models\\AllNotes.cs",
+              "RelativeToolTip": "Notes\\Models\\AllNotes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:18:18.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllNotesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Views\\AllNotesPage.xaml",
+              "RelativeDocumentMoniker": "Notes\\Views\\AllNotesPage.xaml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Views\\AllNotesPage.xaml",
+              "RelativeToolTip": "Notes\\Views\\AllNotesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-26T22:17:57.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotePage.xaml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Views\\NotePage.xaml",
+              "RelativeDocumentMoniker": "Notes\\Views\\NotePage.xaml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Views\\NotePage.xaml",
+              "RelativeToolTip": "Notes\\Views\\NotePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-26T22:04:22.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Views\\NotePage.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\Views\\NotePage.xaml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Views\\NotePage.xaml.cs",
+              "RelativeToolTip": "Notes\\Views\\NotePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:04:56.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Notes\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\AppShell.xaml",
+              "RelativeToolTip": "Notes\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-26T22:03:27.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Models\\About.cs",
+              "RelativeDocumentMoniker": "Notes\\Models\\About.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Models\\About.cs",
+              "RelativeToolTip": "Notes\\Models\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:14:53.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Notes\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Models\\Note.cs",
+              "RelativeToolTip": "Notes\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:14:25.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Views\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\Views\\AboutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Views\\AboutPage.xaml.cs",
+              "RelativeToolTip": "Notes\\Views\\AboutPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T21:55:40.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Views\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "Notes\\Views\\AboutPage.xaml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Views\\AboutPage.xaml",
+              "RelativeToolTip": "Notes\\Views\\AboutPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-26T21:54:57.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Notes",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Notes.csproj",
+              "RelativeDocumentMoniker": "Notes\\Notes.csproj",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\Notes\\Notes\\Notes.csproj",
+              "RelativeToolTip": "Notes\\Notes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-26T22:03:50.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
