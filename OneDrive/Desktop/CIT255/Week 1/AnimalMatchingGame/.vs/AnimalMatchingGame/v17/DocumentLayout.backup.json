@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\AnimalMatchingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E6EC606-C48B-42A6-BE0A-4CBEAC61CCB2}|AnimalMatchingGame\\AnimalMatchingGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\week 1\\animalmatchinggame\\animalmatchinggame\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E6EC606-C48B-42A6-BE0A-4CBEAC61CCB2}|AnimalMatchingGame\\AnimalMatchingGame.csproj|solutionrelative:animalmatchinggame\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E6EC606-C48B-42A6-BE0A-4CBEAC61CCB2}|AnimalMatchingGame\\AnimalMatchingGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\week 1\\animalmatchinggame\\animalmatchinggame\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E6EC606-C48B-42A6-BE0A-4CBEAC61CCB2}|AnimalMatchingGame\\AnimalMatchingGame.csproj|solutionrelative:animalmatchinggame\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\AnimalMatchingGame\\AnimalMatchingGame\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AnimalMatchingGame\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\AnimalMatchingGame\\AnimalMatchingGame\\MainPage.xaml.cs",
+              "RelativeToolTip": "AnimalMatchingGame\\MainPage.xaml.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T18:15:04.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\AnimalMatchingGame\\AnimalMatchingGame\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AnimalMatchingGame\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Week 1\\AnimalMatchingGame\\AnimalMatchingGame\\MainPage.xaml",
+              "RelativeToolTip": "AnimalMatchingGame\\MainPage.xaml",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-27T18:12:03.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
